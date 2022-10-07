@@ -1,0 +1,101 @@
+.sectie {
+  margin: 50px 0px;
+}
+
+.headerBox {
+  padding: 25px 0px;
+  text-align-last: center;
+  color: white;
+}
+
+.inputTrip {
+  color: black;
+  background-color: white;
+  border: none;
+}
+
+.planDate {
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+  width: 100%;
+}
+
+.buttonNext,
+.buttonPrevious,
+.passengers {
+  border-radius: 100px;
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  align-self: center;
+  border-color: black;
+  color: black;
+  margin-right: 10px;
+}
+
+.naviButtons {
+  bottom: 0;
+  margin-top: 40vh;
+}
+
+.naviButtonsTwo {
+  bottom: 0;
+  margin-top: 13vh;
+}
+
+.naviButtonsThree {
+  bottom: 0;
+  margin-top: 13vh;
+}
+
+.headerTableText {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.img {
+  border-radius: 10px;
+}
+
+.line {
+  border: 1px solid black;
+}
+
+.confirmButton {
+  border-radius: 25px;
+  width: 40%;
+}
+.confirmButtonLast {
+  border-radius: 25px;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.confirmMapImg {
+  border-radius: 180px;
+}
+
+.tipAmount {
+  border-radius: 15px;
+  width: 100%;
+  background-color: white;
+  border-color: black;
+  color: black;
+}
+
+.oldTripCard {
+  margin: 25px 0px;
+  border-radius: 10px;
+  height: 100px;
+}
+
+.oldTripCardText {
+  padding: 22px 0px;
+}
+
+.recTripCard {
+  margin: 25px 0px;
+  border-radius: 10px;
+  height: 200px;
+}

@@ -1,4 +1,3 @@
-import Head from "next/head";
 import Image from "next/image";
 import Container from "react-bootstrap/Container";
 import { Button, Col, Row } from "react-bootstrap";
